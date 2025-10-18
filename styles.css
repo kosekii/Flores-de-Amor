@@ -120,6 +120,7 @@ nav {
     width: 100%;
     background-color: white;
     padding: 2rem;
+    z-index: 1000;
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
 }
 
@@ -398,3 +399,4 @@ footer {
     .product-card { page-break-inside: avoid; }
     body { background-color: white; }
 }
+
